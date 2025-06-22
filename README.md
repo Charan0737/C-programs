@@ -29,6 +29,6 @@ gcc basic_programs/age.c -o age
 
 ## 🔗 Author
 
-[Charan0737](https://github.com/Charan0737)  
+[Charan-Mugada](https://github.com/Charan-Mugada)  
 Student @ Raghu Engineering College  
 Learning C, DSA, Java, Python , Web Technologies 
